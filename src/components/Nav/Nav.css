@@ -5,7 +5,7 @@
   position: fixed;
   width: 97%;
   color: #561786;
-  font-size: calc(10px + 14 * (100vw - 320px)/ 800);
+  font-size: 25px;
   z-index: 99;
   white-space: nowrap
 }
